@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193241465499",
+    "project_id": "mujawar-poultry-farm",
+    "storage_bucket": "mujawar-poultry-farm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193241465499:android:e9101d92effe940bb0fc3e",
+        "android_client_info": {
+          "package_name": "com.mujawar.poultry_farm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvpjMwqeo6L9ziYQPLO28D38e2KbSUDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
